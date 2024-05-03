@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://github.com/ManoelAugusto-F/bitsdeconhecimento.github.io.git"
 title = "Bits de conhecimento"
 languageCode = "pt-br"
 paginate = "10" # Number of posts per page

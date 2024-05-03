@@ -3,7 +3,7 @@ title: "IpFix"
 date: 2024-05-03T11:28:07-03:00
 author: Manoel A.
 tags: [Tutorial,Linux,Debian]
-categories: [Tutorial,Linux,Debian]
+categories: [Tutorial]
 draft: false
 description: "Configuração de Ip Estatico Debian."
 image: ""
